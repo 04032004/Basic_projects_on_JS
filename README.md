@@ -1,2 +1,2 @@
 # Basic_projects_on_JS
-this is a repository on making basic projects on javascript
+This is a repository of making basic projects on javascript
